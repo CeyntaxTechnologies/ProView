@@ -102,6 +102,7 @@ See the LICENSE file for more details.
 
 If you find ProView useful, please ⭐ star the repository.
 For bugs, feature requests, or suggestions, feel free to open an Issue.
+https://www.ceyntax.com/open-source-projects
 
 Happy File Managing with ProView! 🚀
 Dushshantha Rajkumar (Ceyntax Technologies)  www.ceyntax.com
