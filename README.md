@@ -45,7 +45,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/proview.git
+git clone https://github.com/CeyntaxTechnologies/proview.git
 
 Navigate to the project directory:
 
